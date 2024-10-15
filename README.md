@@ -10,11 +10,16 @@
 
 # DP2C8
 
-A) not (P and Q): True if at least one of P or Q is false.
-B) (not P) and Q: True only when P is false and Q is true.
-C) (not P) or (not Q): True if at least one of P or Q is false.
-D) (P and Q) or R: True if both P and Q are true or if R is true.
-E) (P or R) and (Q or R): True if at least one of P or R is true and at least one of Q or R is true.
+#A) not (P and Q): True if at least one of P or Q is false.
+
+#B) (not P) and Q: True only when P is false and Q is true.
+
+#C) (not P) or (not Q): True if at least one of P or Q is false.
+
+#D) (P and Q) or R: True if both P and Q are true or if R is true.
+
+#E) (P or R) and (Q or R): True if at least one of P or R is true and at least one of Q or R is true.
+
 #CONFUSED on this one because didnt know if you wanted the chart or not but have the chart written on paper if you want to see it.
 
 # DP3C8 
