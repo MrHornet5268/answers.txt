@@ -23,7 +23,8 @@
 #CONFUSED on this one because didnt know if you wanted the chart or not but have the chart written on paper if you want to see it.
 
 # DP3C8 
-#A) n = int(input("Enter a positive integer n: ")) # Ask the user to enter a number sum_of_numbers = 0
+#A) n = int(input("Enter a positive integer n: ")) # Ask the user to enter a number 
+sum_of_numbers = 0
 counter = 1
 
 #While loop to calculate the sum of the first n counting numbers
