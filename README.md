@@ -1,4 +1,4 @@
-# answers.txt
+# answers for week 8
 # DP1C8 
 #A) Definite and Indefinite Loop #Comparing: Both repeat a block of code multiple times #Contast: DP: Reiles on knowing the how many times they would like it to run #IL: You don't know how many times it will run it could run forever or stop as soon as you start
 
@@ -52,7 +52,7 @@ n = int(input("Enter a positive integer n to find the nth Fibonacci number: ")) 
 
 # PE4C8
 
-progarm to generate the Syracuse sequence
+#a progarm to generate the Syracuse sequence
 def syracuse(n): sequence = [] # Create an empty list to store the sequence
 
 while n != 1:  # Keep going until n is 1
