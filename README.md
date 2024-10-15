@@ -26,10 +26,15 @@
 #A) n = int(input("Enter a positive integer n: ")) # Ask the user to enter a number sum_of_numbers = 0
 counter = 1
 
-While loop to calculate the sum of the first n counting numbers
-while counter <= n: # Keep going as long as counter is less than or equal to n sum_of_numbers += counter # Add the current counter to the total sum counter += 1
+#While loop to calculate the sum of the first n counting numbers
+while counter <= n: 
 
-print("The sum of the first", n, "counting numbers is:", sum_of_numbers) # Show the answer print()
+#Keep going as long as counter is less than or equal to n 
+sum_of_numbers += counter # Add the current counter to the total sum 
+counter += 1
+
+print("The sum of the first", n, "counting numbers is:", sum_of_numbers) # Show the answer 
+print()
 
 #C) This will ask user for numbers and then it will add up everthing in the end after you type 999 to stop the program sum_of_numbers = 0
 number = 0
